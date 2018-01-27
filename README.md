@@ -1,2 +1,2 @@
 # UNFC
-Ultimate Noodle Championship Project
+[logo]: https://github.com/dale-findlay/UNFC/blob/master/Branding/Logos/unfc-logo.png "UNFC Logo"
