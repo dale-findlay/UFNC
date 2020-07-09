@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4222b72b4188f9b439426cf3d53609ee
+timeCreated: 1498972126
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Francois One
+  fontNames:
+  - Francois One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
